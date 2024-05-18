@@ -39,7 +39,7 @@ EDA involved following steps:
 ### Results/Findings
 - Andhra Pradesh and Assam Leading Agricultural Producers
 - Rice cultivation dominates the agricultural landscape, covering 45.39% of the total area.
-- Assam distinguishes itself with its coconut production, contributing a remarkable 42% to the total agricultural output across all states, crops, and years
+- Assam distinguishes itself with its coconut production, contributing a remarkable 42.36% to the total agricultural output across all states, crops, and years
 - This analysis reveals a noteworthy trend of heightened rice production during the Kharif and Winter seasons.
 
 ### Recommendations
