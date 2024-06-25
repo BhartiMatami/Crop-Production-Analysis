@@ -11,7 +11,7 @@
 - [References](#references)
 
 ### Project Overview
-This Crop Production analysis project in-depth analysis of agricultural data focusing on five states in India Andaman and Nicobar Islands, Andhra Pradesh, Arunachal Pradesh,Assam, Bihar in the year from 1997 to 2014. The analysis explores key metrics such as crop production, crop coverage, and seasonal trends.
+This Crop Production analysis project in-depth analysis of agricultural data focusing on five states in India Andaman and Nicobar Islands, Andhra Pradesh, Arunachal Pradesh,Assam, Bihar in the year from 1995 to 2015. The analysis explores key metrics such as crop production, crop coverage, and seasonal trends.
 
 ### Data Sources
 Crop Data : The primary dataset is "Crop Production data.csv" used for this analysis is the  Containing information about each crop production
@@ -37,10 +37,11 @@ EDA involved following steps:
 3. Identify patterns, anomalies, and insights.
 
 ### Results/Findings
-- Andhra Pradesh and Assam Leading Agricultural Producers
+- Uttar Pradesh and Assam Leading Agricultural Producers
 - Rice cultivation dominates the agricultural landscape, covering 45.39% of the total area.
-- Assam distinguishes itself with its coconut production, contributing a remarkable 42.36% to the total agricultural output across all states, crops, and years
-- This analysis reveals a noteworthy trend of heightened rice production during the Kharif and Winter seasons.
+- Weat has highest production in Rabi, Summer and Winter seasons.
+- Turmeric is single crop gives High production in small area also.
+- This analysis reveals a noteworthy trend of heightened rice production during Winter season.
 
 ### Recommendations
 - Coconut Value Chain Enhancement
